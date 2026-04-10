@@ -1,0 +1,5 @@
+numpy==2.4.3
+opencv-python==4.13.0.92
+redis==7.3.0
+torch==2.8.0
+torchvision==0.23.0
